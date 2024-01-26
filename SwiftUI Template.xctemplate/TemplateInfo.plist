@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Concrete</key>
+	<true/>
+	<key>Description</key>
+	<string>This is a basic Xcode template for a SwiftUI project</string>
+	<key>Kind</key>
+	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
+	<key>Identifier</key>
+	<string>SwiftUIProjectTemplate</string>
+	<key>Targets</key>
+	<array>
+		<dict>
+			<key>SharedSettings</key>
+			<dict>
+				<key>ENABLE_PREVIEWS</key>
+				<string>YES</string>
+				<key>DEVELOPMENT_ASSET_PATHS</key>
+				<string>___PACKAGENAMEPREVIEWCONTENT:quoteIfNeeded___</string>
+				<key>INFOPLIST_KEY_UIApplicationSceneManifest_Generation</key>
+				<string>YES</string>
+				<key>INFOPLIST_KEY_UILaunchScreen_Generation</key>
+				<string>YES</string>
+			</dict>
+		</dict>
+	</array>
+	<key>Ancestors</key>
+	<array>
+		<string>com.apple.dt.unit.cocoaTouchApplicationBase</string>
+	</array>
+	<key>Definitions</key>
+	<dict>
+		<key>___PACKAGENAME:identifier___App.swift</key>
+		<dict>
+			<key>Path</key>
+			<string>App.swift</string>
+		</dict>
+		<key>ReadMe.md</key>
+		<dict>
+			<key>Path</key>
+			<string>ReadMe.md</string>
+		</dict>
+		<key>Views/TabBarView.swift</key>
+		<dict>
+			<key>Path</key>
+			<string>Views/TabBarView.swift</string>
+			<key>Group</key>
+			<array>
+				<string>Views</string>
+			</array>
+		</dict>
+		<key>Views/AllViews/All___VARIABLE_StructOneP___View.swift</key>
+		<dict>
+			<key>Path</key>
+			<string>Views/AllViews/AllStructOneView.swift</string>
+			<key>Group</key>
+			<array>
+				<string>Views</string>
+				<string>AllViews</string>
+			</array>
+		</dict>
+		<key>Views/AllViews/All___VARIABLE_StructTwoP___View.swift</key>
+		<dict>
+			<key>Path</key>
+			<string>Views/AllViews/AllStructTwoView.swift</string>
+			<key>Group</key>
+			<array>
+				<string>Views</string>
+				<string>AllViews</string>
+			</array>
+		</dict>
+		<key>Views/DetailViews/___VARIABLE_StructOne___DetailView.swift</key>
+		<dict>
+			<key>Path</key>
+			<string>Views/DetailViews/StructOneDetailView.swift</string>
+			<key>Group</key>
+			<array>
+				<string>Views</string>
+				<string>DetailViews</string>
+			</array>
+		</dict>
+		<key>Views/DetailViews/___VARIABLE_StructTwo___DetailView.swift</key>
+		<dict>
+			<key>Path</key>
+			<string>Views/DetailViews/StructTwoDetailView.swift</string>
+			<key>Group</key>
+			<array>
+				<string>Views</string>
+				<string>DetailViews</string>
+			</array>
+		</dict>
+		<key>Structs/___VARIABLE_StructOne___.swift</key>
+		<dict>
+			<key>Path</key>
+			<string>Structs/StructOne.swift</string>
+			<key>Group</key>
+			<array>
+				<string>Structs</string>
+			</array>
+		</dict>
+		<key>Structs/___VARIABLE_StructTwo___.swift</key>
+		<dict>
+			<key>Path</key>
+			<string>Structs/StructTwo.swift</string>
+			<key>Group</key>
+			<array>
+				<string>Structs</string>
+			</array>
+		</dict>
+		<key>Database/Database.swift</key>
+		<dict>
+			<key>Path</key>
+			<string>Database/Database.swift</string>
+			<key>Group</key>
+			<array>
+				<string>Database</string>
+			</array>
+		</dict>
+		<key>Preview Content/Preview Assets.xcassets</key>
+		<dict>
+			<key>SortOrder</key>
+			<integer>100</integer>
+			<key>Path</key>
+			<string>Preview Assets.xcassets</string>
+			<key>Group</key>
+			<string>Preview Content</string>
+		</dict>
+	</dict>
+	<key>Nodes</key>
+	<array>
+		<string>___PACKAGENAME:identifier___App.swift</string>
+		<string>ReadMe.md</string>
+		<string>Views/TabBarView.swift</string>
+		<string>Views/AllViews/All___VARIABLE_StructOneP___View.swift</string>
+		<string>Views/AllViews/All___VARIABLE_StructTwoP___View.swift</string>
+		<string>Views/DetailViews/___VARIABLE_StructOne___DetailView.swift</string>
+		<string>Views/DetailViews/___VARIABLE_StructTwo___DetailView.swift</string>
+		<string>Structs/___VARIABLE_StructOne___.swift</string>
+		<string>Structs/___VARIABLE_StructTwo___.swift</string>
+		<string>Database/Database.swift</string>
+		<string>Assets.xcassets</string>
+		<string>Preview Content/Preview Assets.xcassets</string>
+	</array>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Default</key>
+			<string>X</string>
+			<key>Identifier</key>
+			<string>StructOne</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Struct One:</string>
+			<key>Description</key>
+			<string>The name of the first struct</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>X</string>
+			<key>Identifier</key>
+			<string>StructOneL</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Struct One (lowercased):</string>
+			<key>Description</key>
+			<string>The lowercased name of the first struct</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>X</string>
+			<key>Identifier</key>
+			<string>StructOneP</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Struct One (Plural):</string>
+			<key>Description</key>
+			<string>The plural name of the first struct</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>X</string>
+			<key>Identifier</key>
+			<string>StructTwo</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Struct Two:</string>
+			<key>Description</key>
+			<string>The name of the second struct</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>X</string>
+			<key>Identifier</key>
+			<string>StructTwoL</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Struct Two (lowercased):</string>
+			<key>Description</key>
+			<string>The lowercased name of the second struct</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>X</string>
+			<key>Identifier</key>
+			<string>StructTwoP</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Struct Two (Plural):</string>
+			<key>Description</key>
+			<string>The plural name of the second struct</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+	</array>
+</dict>
+</plist>
