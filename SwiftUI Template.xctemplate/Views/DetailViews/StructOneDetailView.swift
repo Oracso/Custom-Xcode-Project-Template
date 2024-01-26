@@ -6,7 +6,7 @@ struct ___VARIABLE_StructOne___DetailView: View {
     let ___VARIABLE_StructOneL___: ___VARIABLE_StructOne___
     var body: some View {
         List {
-            Text(___VARIABLE_StructOneL___.secondProperty)
+            Text(___VARIABLE_StructOneL___.details)
         }
         .navigationTitle(___VARIABLE_StructOneL___.name)
     }

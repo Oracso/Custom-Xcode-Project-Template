@@ -5,7 +5,7 @@ import Foundation
 struct ___VARIABLE_StructTwo___: Identifiable {
     
     var name: String
-    var secondProperty: String {
+    var details: String {
         "Here is some information about \(name.lowercased())"
     }
     
