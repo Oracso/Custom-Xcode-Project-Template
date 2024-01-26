@@ -5,10 +5,9 @@ A custom Xcode template used to dynamically generate a simple SwiftUI project.
 
 
 <p align="center">
-  <img src="PreviewResources/Screenshot1.png" width="400"  title="All Categories">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="PreviewResources/Screenshot2.png" width="400"  title="Category Detail View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="PreviewResources/ScreenRecording1.gif" height="400" title="App Example"  class="contain">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <img src="PreviewResources/ScreenRecording1.gif" width="230" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <img src="PreviewResources/Screenshot1.png" width="400"  title="Choose Project Template Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="PreviewResources/Screenshot2.png" width="400"  title="Choose Template Options Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="PreviewResources/ScreenRecording1.gif" width="230" title="Project Demo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br></br>
 
