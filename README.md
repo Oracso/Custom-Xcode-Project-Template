@@ -9,7 +9,7 @@
 </section>
 
 ### Overview
-A custom Xcode project template used to dynamically generate a simple hierarchical SwiftUI project.
+A custom Xcode project template used to dynamically generate a simple hierarchical **SwiftUI** project.
 
 ### Use Case:
 
