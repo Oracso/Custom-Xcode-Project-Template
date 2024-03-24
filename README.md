@@ -15,9 +15,9 @@ A custom Xcode project template used to dynamically generate a simple hierarchic
 
 *Custom Xcode project templates* leverage the power of dynamic file creation across an entire project. Where code snippets can be used to insert generic code, *custom Xcode file templates* allow the dynamic injection of boilerplate code within known bounds, with *custom project templates* doing the same over larger projects. 
 
-By typing a *struct*'s name once at the start of a project, files can be dynamically populated with the project ready to run using relevant nomenclature.  
+By typing a *struct*'s name once at the start of a project, files can be dynamically populated with the relevant nomenclature with the project ready to run.
 
-Further, *custom project templates* facilitate the creation of document directory hierarchies, reducing the time needed to structure files into pre-planned layouts.
+Further, *custom project templates* facilitate the creation of document directory hierarchies, reducing the time needed to organise files into preferred structures.
 
 <details open>
     <summary>Contents:</summary>
